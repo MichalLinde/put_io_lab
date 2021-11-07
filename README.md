@@ -1,4 +1,4 @@
 # put_io_lab
-michał linde
+MIchał LInde
 data
 kolejna zmiana
